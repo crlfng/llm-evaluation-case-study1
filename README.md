@@ -1,13 +1,13 @@
 
 # LLM Evaluation Case Study
 
-A systematic comparison of Claude and ChatGPT responses across diverse prompts. Documents evaluation methodology and observations about model differences.
+A systematic comparison of Claude, ChatGPT, and Deepseek responses across diverse prompts. Documents evaluation methodology and observations about model differences.
 
 ## Methodology
 
 **Process:**
 1. Write a prompt
-2. Submit the same prompt to both Claude and ChatGPT
+2. Submit the same prompt to Claude, ChatGPT, and Deepseek.
 3. Compare responses on: accuracy, completeness, clarity, tone, relevance
 4. Rate each on a 1-5 scale
 5. Identify which is better and document why
